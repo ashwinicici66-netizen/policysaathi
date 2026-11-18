@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://policysaathi.in/sitemap.xml
